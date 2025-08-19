@@ -21,3 +21,5 @@ before running it make sure to add you venv with your api keys
 the llm i've used in this project is "google_genai:gemini-2.0-flash"
 
 Note: this is to showcase my working with langgraph not a complete project
+
+and make sure to go over project.toml file to see the modules i've used in this project
